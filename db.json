@@ -27,18 +27,4 @@
                     "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-444444444444"
     }
   ],
-      "coolfeet": [
-    {
-                   "id": "fb3e00a2-5894-444e-ace1-555555555555",
-                    "name": "frontCoolFeet",
-                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-555555555555"
-    }
-  ],
-      "freshair": [
-    {
-                   "id": "fb3e00a2-5894-444e-ace1-666666666666",
-                    "name": "frontFreshAir",
-                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-666666666666"
-    }
-  ],
 }
