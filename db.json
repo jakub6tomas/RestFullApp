@@ -20,11 +20,7 @@
                     "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-333333333333"
     }
   ],
-      "coolhand": [
-    {
-                   "id": "fb3e00a2-5894-444e-ace1-444444444444",
-                    "name": "frontCoolHand",
-                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-444444444444"
-    }
-  ],
+  "profile": {
+    "name": "typicode"
+}
 }
