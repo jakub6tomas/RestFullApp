@@ -1,26 +1,11 @@
 {
-   "defogging": [
+  "posts": [
     {
-                   "id": "fb3e00a2-5894-444e-ace1-df633d3a18b9",
-                    "name": "frontDefogging",
-                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-df633d3a18b9"
-    }
-  ],
-      "warmhand": [
-    {
-                   "id": "fb3e00a2-5894-444e-ace1-222222222222",
-                    "name": "frontWarmHand",
-                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-222222222222"
-    }
-  ],
-      "warmfeet": [
-    {
-                   "id": "fb3e00a2-5894-444e-ace1-333333333333",
-                    "name": "frontWarmFeet",
-                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-333333333333"
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
     "name": "typicode"
-}
+  }
 }
