@@ -13,6 +13,34 @@
                     "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-222222222222"
     }
   ],
+      "warmfeet": [
+    {
+                   "id": "fb3e00a2-5894-444e-ace1-333333333333",
+                    "name": "frontWarmFeet",
+                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-333333333333"
+    }
+  ],
+      "coolhand": [
+    {
+                   "id": "fb3e00a2-5894-444e-ace1-444444444444",
+                    "name": "frontCoolHand",
+                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-444444444444"
+    }
+  ],
+      "coolfeet": [
+    {
+                   "id": "fb3e00a2-5894-444e-ace1-555555555555",
+                    "name": "frontCoolFeet",
+                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-555555555555"
+    }
+  ],
+      "freshair": [
+    {
+                   "id": "fb3e00a2-5894-444e-ace1-666666666666",
+                    "name": "frontFreshAir",
+                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-666666666666"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
