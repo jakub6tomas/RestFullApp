@@ -6,6 +6,13 @@
                     "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-df633d3a18b9"
     }
   ],
+      "warmhand": [
+    {
+                   "id": "fb3e00a2-5894-444e-ace1-222222222222",
+                    "name": "frontWarmHand",
+                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-222222222222"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
