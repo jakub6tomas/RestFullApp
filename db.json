@@ -1,10 +1,11 @@
 {
   "data": [
-    {
-        "id": "fb3e00a2-5894-444e-ace1-df633d3a18b9",
-        "name": "frontDefogging",
-        "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-df633d3a18b9"
-    }
+   {
+            "defogging": {
+                    "id": "fb3e00a2-5894-444e-ace1-df633d3a18b9",
+                    "name": "frontDefogging",
+                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-df633d3a18b9"
+                           },
   ],
   "profile": {
     "name": "typicde"
