@@ -1,16 +1,33 @@
 {
-  "defogging": [
+ "data" : [
     {
-                   "id": "fb3e00-ace1-df633d3a18b9",
-                    "name": "frontDefogging",
-                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-df633d3a18b9"
-    }
-  ],
-        "warmhand": [
-    {
-                   "id": "fb3e00a2-5894-444e-ace1-222222222222",
-                    "name": "frontWarmHand",
-                    "uri": "hvac/switchControls/fb3e00a2-5894-444e-ace1-222222222222"
+      "id" : "f3149b4c-1fe6-40d0-ad3d-db81d3d96a2e",
+      "inspection" : [
+        {
+          "id" : "01d1e846-070f-4dbf-975c-054c3e604645",
+          "name" : "inspectionDistanceIndication",
+          "uri" : "\/maintenance\/valueIndications\/01d1e846-070f-4dbf-975c-054c3e604645"
+        },
+        {
+          "id" : "433d4252-7a66-4d42-adbc-28460176837d",
+          "name" : "inspectionTimeIndication",
+          "uri" : "\/maintenance\/valueIndications\/433d4252-7a66-4d42-adbc-28460176837d"
+        }
+      ],
+      "name" : "maintenanceServices",
+      "oil" : [
+        {
+          "id" : "60c564fd-0400-4478-ad02-0ddba1630880",
+          "name" : "oilDistanceIndication",
+          "uri" : "\/maintenance\/valueIndications\/60c564fd-0400-4478-ad02-0ddba1630880"
+        },
+        {
+          "id" : "b555f990-3078-4bad-9683-c350d856537d",
+          "name" : "oilTimeIndication",
+          "uri" : "\/maintenance\/valueIndications\/b555f990-3078-4bad-9683-c350d856537d"
+        }
+      ],
+      "uri" : "\/maintenance\/services\/f3149b4c-1fe6-40d0-ad3d-db81d3d96a2e"
     }
   ],
   "profile": {
